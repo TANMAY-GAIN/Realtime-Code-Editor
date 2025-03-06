@@ -10,7 +10,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: "https://realtime-code-editor-ji29.onrender.com",
+    origin: "https://realtime-code-editor-1-fhzn.onrender.com",
   }
 });
 
