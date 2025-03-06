@@ -7,7 +7,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import Avatar from 'react-avatar'
 import { assets } from './assets/assets.jsx';
 
-const socket = io("https://realtime-code-editor-ji29.onrender.com");
+const socket = io("https://realtime-code-editor-1-fhzn.onrender.com");
 
 const EditorPage = () => {
     
